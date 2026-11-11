@@ -110,3 +110,4 @@ def certify_nsbi_result(nsbi_model, m_events, lambda_test, n_bootstrap=200):
         "delta_bic": delta_bic,
         "certified": certified,
     }
+
