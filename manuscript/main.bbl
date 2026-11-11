@@ -1,0 +1,54 @@
+\begin{thebibliography}{1}
+
+\bibitem{brehmer2018eft}
+Johann Brehmer, Kyle Cranmer, Gilles Louppe, and Juan Pavez.
+\newblock Constraining effective field theories with machine learning.
+\newblock {\em Physical Review Letters}, 121(11):111801, 2018.
+
+\bibitem{lhcbrun2}
+{LHCb Collaboration}.
+\newblock Measurement of the $b^0_s \to \mu^+\mu^-$ branching fraction and
+  effective lifetime and search for $b^0 \to \mu^+\mu^-$ decays.
+\newblock {\em Physical Review Letters}, 128(4):041801, 2022.
+
+\bibitem{sornette1998}
+Didier Sornette.
+\newblock Discrete scale invariance and complex dimensions.
+\newblock {\em Physics Reports}, 297(5):239--270, 1998.
+
+\bibitem{olivaes2026planck}
+Bruno~Lu\c{c}ardo Olivaes.
+\newblock Constraints on primordial discrete scale invariance from the planck
+  2018 temperature power spectrum.
+\newblock {\em Zenodo Preprint}, 2026.
+
+\bibitem{olivaes2026lhc}
+Bruno~Lu\c{c}ardo Olivaes.
+\newblock A certified search for discrete scale invariance in lhc dimuon mass
+  spectra.
+\newblock {\em Zenodo Preprint}, 2026.
+
+\bibitem{cranmer2020sbi}
+Kyle Cranmer, Johann Brehmer, and Gilles Louppe.
+\newblock The frontier of simulation-based inference.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  117(48):30055--30062, 2020.
+
+\bibitem{irishep2023nsbi}
+{IRIS-HEP Collaboration}.
+\newblock {NSBI-workflow-tutorial: Neural Simulation-Based Inference in High
+  Energy Physics}.
+\newblock \url{https://github.com/iris-hep/NSBI-workflow-tutorial}, 2023.
+
+\bibitem{wilks1938}
+Samuel~S. Wilks.
+\newblock The large-sample distribution of the likelihood ratio for testing
+  composite hypotheses.
+\newblock {\em The Annals of Mathematical Statistics}, 9(1):60--62, 1938.
+
+\bibitem{cmsopendata2010}
+{CMS Collaboration}.
+\newblock Dimuon event information derived from the run2010b public mu dataset.
+\newblock {\em CERN Open Data Portal}, 2010.
+
+\end{thebibliography}
